@@ -1,36 +1,31 @@
 class Solution {
 public:
     int minimumDistance(vector<int>& nums) {
-        unordered_map<int, vector<int>> mp;
-
-        for(int i = 0; i < nums.size(); i++)
-        {
-            mp[nums[i]].push_back(i);  // FIXED
-        }
-
-        int ans = INT_MAX;
+        // 1. Initialize mindist to a very large value
+        int mindist = INT_MAX; 
+        unordered_map<int, vector<int>> mpp;
         
-        for(auto it = mp.begin(); it != mp.end(); it++)
-        {
-            vector<int> vec = it->second;
+        for(int i = 0; i < nums.size(); i++){
+            mpp[nums[i]].push_back(i);
+        }
+        
+        for(auto& it : mpp){
+            // Use a reference to avoid copying the vector
+            vector<int>& ans = it.second; 
+            if(ans.size() < 3) continue;
 
-            if(vec.size() >= 3)
-            {
-                for(int i = 0; i < vec.size() - 2; i++)
-                {
-                    int dist = 2 * (vec[i+2] - vec[i]);
-                    
-                    if(dist < ans)
-                    {
-                        ans = dist;
-                    }
+            int l = 0;
+            for(int r = 0; r < ans.size(); r++){
+                if(r - l + 1 > 3) l++;
+                if(r - l + 1 == 3){
+                    int dist = 2 * (ans[r] - ans[l]);
+                    // 2. Update the variable declared outside the loop
+                    mindist = min(dist, mindist); 
                 }
             }
         }
-
-        if(ans == INT_MAX)
-            return -1;
-
-        return ans;
+        
+        // 3. Compare mindist (the result), not ans (the vector)
+        return (mindist == INT_MAX) ? -1 : mindist;
     }
 };
