@@ -2,5 +2,7 @@
 
 Postorder traversal and related problems.
 
-## Related Problems
+## Problems Found
+- postorder
+
 See parent [Tree/README.md](../README.md) for the complete list.

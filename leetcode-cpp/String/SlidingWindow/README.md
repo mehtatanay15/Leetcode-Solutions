@@ -2,5 +2,7 @@
 
 Sliding window technique on strings.
 
-## Related Problems
+## Problems Found
+- longest_substring_with_unique
+
 See parent [String/README.md](../README.md) for the complete list.

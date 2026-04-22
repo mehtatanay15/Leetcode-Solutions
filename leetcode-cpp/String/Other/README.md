@@ -2,5 +2,7 @@
 
 Miscellaneous string problems.
 
-## Related Problems
+## Problems Found
+- LargestOddNumber
+
 See parent [String/README.md](../README.md) for the complete list.

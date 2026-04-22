@@ -2,8 +2,8 @@
 
 ## Problems Solved
 
-| # | Problem | Approach | Time | Space |
-|---|---------|----------|------|-------|
+## Additional Problems Found
+- 1D: climbstairs
 
 ## Subcategories
 - **1D/**: 1D DP problems
@@ -14,3 +14,4 @@
 - **Memo/**: Memoization approach
 - **Interval/**: Interval DP
 - **MatrixPath/**: Matrix path DP
+- **Other/**: Miscellaneous DP problems

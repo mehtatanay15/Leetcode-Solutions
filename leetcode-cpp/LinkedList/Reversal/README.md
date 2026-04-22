@@ -2,5 +2,7 @@
 
 Linked list reversal problems.
 
-## Related Problems
+## Problems Found
+- reversed-ll
+
 See parent [LinkedList/README.md](../README.md) for the complete list.

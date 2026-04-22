@@ -6,6 +6,13 @@
 |---|---------|----------|------|-------|
 | 100 | [Same Tree](Other/problem_100.cpp) | Recursive DFS | O(min(m,n)) | O(min(h1,h2)) |
 
+## Additional Problems Found
+- Other: maxDepthBT, maxDepth, balancedBT
+- DFS-Preorder: preorder
+- DFS-Postorder: postorder
+- DFS-Inorder: inorder
+- BFS-LevelOrder: levelorder
+
 ## Subcategories
 - **DFS-Inorder/**: Inorder traversal
 - **DFS-Preorder/**: Preorder traversal
@@ -15,3 +22,4 @@
 - **PathSum/**: Path sum problems
 - **LCA/**: Lowest common ancestor
 - **Serialization/**: Tree serialization
+- **Other/**: Miscellaneous tree problems

@@ -2,5 +2,7 @@
 
 Palindrome-related string problems.
 
-## Related Problems
+## Problems Found
+- Longestpalindrome
+
 See parent [String/README.md](../README.md) for the complete list.

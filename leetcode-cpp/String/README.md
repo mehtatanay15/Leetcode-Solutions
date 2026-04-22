@@ -8,6 +8,13 @@
 | 2452 | [Two Edit Words](Manipulation/problem_2452.cpp) | Character Comparison | O(m*n*L) | O(1) |
 | 3783 | [Mirror Distance](Manipulation/problem_3783.cpp) | Number Reversal | O(d) | O(1) |
 
+## Additional Problems Found
+- Manipulation: reverse_word_in_string, rotate_string
+- SlidingWindow: longest_substring_with_unique
+- Other: LargestOddNumber
+- Palindrome: Longestpalindrome
+- PatternMatching: shortestTarget, removeouterparanthesis, kono_banana, isIsomorphic, decode_slant_text
+
 ## Subcategories
 - **Manipulation/**: String parsing and manipulation
 - **TwoPointer/**: Two-pointer on strings

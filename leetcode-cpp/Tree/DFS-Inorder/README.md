@@ -2,5 +2,7 @@
 
 Inorder traversal and related problems.
 
-## Related Problems
+## Problems Found
+- inorder
+
 See parent [Tree/README.md](../README.md) for the complete list.

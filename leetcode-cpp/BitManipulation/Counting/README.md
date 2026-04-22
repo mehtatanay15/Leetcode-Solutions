@@ -2,5 +2,7 @@
 
 Bit counting problems.
 
-## Related Problems
+## Problems Found
+- hammingWeight
+
 See parent [BitManipulation/README.md](../README.md) for the complete list.

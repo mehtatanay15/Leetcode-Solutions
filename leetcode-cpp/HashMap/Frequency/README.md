@@ -2,5 +2,7 @@
 
 Frequency counting and mapping problems using hash maps.
 
-## Related Problems
+## Problems Found
+- freqSort
+
 See parent [HashMap/README.md](../README.md) for the complete list.

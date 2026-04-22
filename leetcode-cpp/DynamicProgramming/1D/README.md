@@ -2,5 +2,7 @@
 
 1D dynamic programming problems.
 
-## Related Problems
+## Problems Found
+- climbstairs
+
 See parent [DynamicProgramming/README.md](../README.md) for the complete list.

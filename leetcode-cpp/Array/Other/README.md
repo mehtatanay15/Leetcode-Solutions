@@ -1,6 +1,14 @@
 # Array - Other
 
-Miscellaneous array problems including two-pointer, sliding window variants, and more.
+Miscellaneous array problems.
 
-## Related Problems
-See parent [Array/README.md](../README.md) for the complete list.
+## Problems Found
+| # | Problem | 
+|---|---------|
+| 2078 | Maximum Distance Between Different Values |
+| - | xorAfterQueries |
+| - | minimumDistance |
+| - | getMinDistance |
+| - | findKthpositive |
+
+See parent [Array/README.md](../README.md) for more details.
