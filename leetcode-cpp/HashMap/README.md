@@ -9,6 +9,7 @@
 
 ## Additional Problems Found
 - Frequency: freqSort
+- Grouping: 3606
 
 ## Subcategories
 - **Other/**: HashMap-based problems
