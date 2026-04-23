@@ -5,9 +5,10 @@
 | # | Problem | Approach | Time | Space |
 |---|---------|----------|------|-------|
 | 100 | [Same Tree](Other/problem_100.cpp) | Recursive DFS | O(min(m,n)) | O(min(h1,h2)) |
+| 543 | [Diameter of Binary Tree](Other/problem_543.cpp) | DFS Post-order + Height | O(n) | O(h) |
 
 ## Additional Problems Found
-- Other: maxDepthBT, maxDepth, balancedBT
+- Other: 543, maxDepthBT, maxDepth, balancedBT
 - DFS-Preorder: preorder
 - DFS-Postorder: postorder
 - DFS-Inorder: inorder
