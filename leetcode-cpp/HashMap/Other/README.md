@@ -2,6 +2,7 @@
 
 | # | Problem | Approach | Time | Space |
 |---|---------|----------|------|-------|
+| 2615 | Sum of Distances | HashMap Grouping + Prefix Sum | O(n) | O(n) |
 | 3488 | Minimum Circular Distance Between Elements With Same Value | HashMap + Binary Search | O(m log m + n log m) | O(m) |
 | 3280 | Minimum Mirror Pair Distance | HashMap + Number Reversal | O(n*d) | O(n) |
 

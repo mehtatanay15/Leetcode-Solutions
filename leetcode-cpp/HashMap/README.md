@@ -10,6 +10,7 @@
 ## Additional Problems Found
 - Frequency: freqSort
 - Grouping: 3606
+- Other: 2615, 3488, 3280
 
 ## Subcategories
 - **Other/**: HashMap-based problems
