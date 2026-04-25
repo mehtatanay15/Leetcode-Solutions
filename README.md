@@ -10,6 +10,7 @@ High-quality C++ solutions for LeetCode problems, organized by category with eff
 - **[Matrix](./leetcode-cpp/Matrix/README.md)** - 2D matrices, searching, rotation
 - **[Tree](./leetcode-cpp/Tree/README.md)** - Binary trees, tree traversal, comparison
 - **[Greedy](./leetcode-cpp/Greedy/README.md)** - Greedy algorithms, optimization
+- **[Geometry](./leetcode-cpp/Geometry/README.md)** - Geometric algorithms, coordinate systems
 - **[DisjointSetUnion](./leetcode-cpp/DisjointSetUnion/README.md)** - Union-Find, DSU with optimization
 - **[Backtracking](./leetcode-cpp/Backtracking/)** - Combinations, permutations, subsets
 - **[Graph](./leetcode-cpp/Graph/)** - Graph algorithms, traversal, shortest paths
@@ -22,7 +23,7 @@ High-quality C++ solutions for LeetCode problems, organized by category with eff
 
 ## 📊 Statistics
 
-- **Total Problems**: 25+
+- **Total Problems**: 26+
 - **Problems by Category**: See individual README files
 - **All solutions include**: Time/Space complexity, detailed approach, examples
 
@@ -44,4 +45,4 @@ High-quality C++ solutions for LeetCode problems, organized by category with eff
 
 ---
 
-**Last Updated**: April 22, 2026
+**Last Updated**: April 25, 2026
