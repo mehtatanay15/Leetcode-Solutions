@@ -4,6 +4,7 @@
 
 | # | Problem | Approach | Time | Space |
 |---|---------|----------|------|-------|
+| 21 | [Merge Two Sorted Lists](Other/problem_21.cpp) | Two-Pointer Merging with Dummy Node | O(n+m) | O(1) |
 
 ## Subcategories
 - **Reversal/**: List reversal problems
