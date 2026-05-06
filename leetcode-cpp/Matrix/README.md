@@ -10,6 +10,7 @@
 | 240 | [Search a 2D Matrix II](SearchProblem/problem_240.cpp) | Two-Pointer (Staircase) ✓ | O(m+n) | O(1) |
 | 1391 | [Check if There is a Valid Path in a Grid](DFS-BFS/problem_1391.cpp) | BFS + Bidirectional Connectivity | O(m*n) | O(m*n) |
 | 1559 | [Detect Cycle in 2D Grid](DFS-BFS/problem_1559.cpp) | DFS + Parent Tracking | O(m*n) | O(m*n) |
+| 1861 | [Rotate the Box](Other/problem_1861.cpp) | Gravity Simulation + Matrix Rotation | O(m*n) | O(m*n) |
 | 1901 | [Find a Peak Element II](SearchProblem/problem_1901.cpp) | Binary Search + Max Row | O(m*log n) | O(1) |
 
 ## Subcategories
