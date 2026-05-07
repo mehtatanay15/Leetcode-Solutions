@@ -11,9 +11,11 @@
 | 1855 | [Maximum Distance Between a Pair of Values](TwoPointer/problem_1855.cpp) | Two Pointers | O(m+n) | O(1) |
 | 2078 | [Maximum Distance Between Different Values](Other/problem_2078.cpp) | Two Pointers from Ends | O(n) | O(1) |
 | 2149 | [Rearrange Array Elements by Sign](TwoPointer/problem_2149.cpp) | Two Pointers | O(n) | O(n) |
+| 3660 | [Find Maximum Value](PrefixSum/problem_3660.cpp) | Prefix-Suffix Arrays + Greedy Partition | O(n) | O(n) |
 
 ## Subcategories
 - **TwoPointer/**: Two-pointer technique problems
 - **BinarySearch/**: Binary search on arrays
 - **SlidingWindow/**: Sliding window technique
+- **PrefixSum/**: Prefix and suffix array problems
 - **Other/**: Miscellaneous array problems
