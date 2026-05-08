@@ -4,6 +4,7 @@
 
 | # | Problem | Approach | Time | Space |
 |---|---------|----------|------|-------|
+| 3629 | [Minimum Jumps with Prime Factors](BFS/problem_3629.cpp) | BFS + Prime Factorization | O(n√M + E) | O(n + M) |
 
 ## Subcategories
 - **BFS/**: Breadth-first search
