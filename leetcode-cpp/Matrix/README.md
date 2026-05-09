@@ -12,6 +12,7 @@
 | 1559 | [Detect Cycle in 2D Grid](DFS-BFS/problem_1559.cpp) | DFS + Parent Tracking | O(m*n) | O(m*n) |
 | 1861 | [Rotate the Box](Other/problem_1861.cpp) | Gravity Simulation + Matrix Rotation | O(m*n) | O(m*n) |
 | 1901 | [Find a Peak Element II](SearchProblem/problem_1901.cpp) | Binary Search + Max Row | O(m*log n) | O(1) |
+| 1914 | [Rotate Matrix IV](Rotation/problem_1914.cpp) | Layer Extraction + Circular Rotation | O(m*n) | O(m*n) |
 
 ## Subcategories
 - **SearchProblem/**: Searching in 2D matrices
