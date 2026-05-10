@@ -4,6 +4,7 @@
 
 | # | Problem | Approach | Time | Space |
 |---|---------|----------|------|-------|
+| 2770 | [Maximum Jumps](Other/problem_2770.cpp) | DP Tabulation - Forward Iteration | O(n²) | O(n) |
 | 3742 | [Maximize Path Score with Constraints](MatrixPath/problem_3742.cpp) | 3D DP Memoization | O(m*n*k) | O(m*n*k) |
 
 ## Additional Problems Found
