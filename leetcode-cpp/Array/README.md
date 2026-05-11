@@ -11,6 +11,7 @@
 | 1855 | [Maximum Distance Between a Pair of Values](TwoPointer/problem_1855.cpp) | Two Pointers | O(m+n) | O(1) |
 | 2078 | [Maximum Distance Between Different Values](Other/problem_2078.cpp) | Two Pointers from Ends | O(n) | O(1) |
 | 2149 | [Rearrange Array Elements by Sign](TwoPointer/problem_2149.cpp) | Two Pointers | O(n) | O(n) |
+| 2553 | [Separate the Digits in an Array](Other/problem_2553.cpp) | Digit Extraction + Reversal | O(n*m) | O(d) |
 | 3660 | [Find Maximum Value](PrefixSum/problem_3660.cpp) | Prefix-Suffix Arrays + Greedy Partition | O(n) | O(n) |
 
 ## Subcategories
