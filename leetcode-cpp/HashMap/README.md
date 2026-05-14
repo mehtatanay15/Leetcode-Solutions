@@ -4,13 +4,14 @@
 
 | # | Problem | Approach | Time | Space |
 |---|---------|----------|------|-------|
+| 2784 | [Check if it is Possible to Make Array Equal](Frequency/problem_2784.cpp) | Frequency Counting + Validation | O(n) | O(n) |
 | 3488 | [Minimum Circular Distance Between Elements With Same Value](Other/problem_3488.cpp) | HashMap + Binary Search | O(m log m + n log m) | O(m) |
 | 3280 | [Minimum Mirror Pair Distance](Other/problem_3280.cpp) | HashMap + Number Reversal | O(n*d) | O(n) |
 
 ## Additional Problems Found
 - Frequency: freqSort
 - Grouping: 3606
-- Other: 2615, 3488, 3280
+- Other: 2615, 3280
 
 ## Subcategories
 - **Other/**: HashMap-based problems
