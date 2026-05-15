@@ -23,7 +23,7 @@ High-quality C++ solutions for LeetCode problems, organized by category with eff
 
 ## 📊 Statistics
 
-- **Total Problems**: 45+
+- **Total Problems**: 46+
 - **Problems by Category**: See individual README files
 - **All solutions include**: Time/Space complexity, detailed approach, examples
 
