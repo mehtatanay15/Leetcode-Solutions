@@ -5,6 +5,7 @@
 | # | Problem | Approach | Time | Space |
 |---|---------|----------|------|-------|
 | 15 | [Three Sum](TwoPointer/three_sum.cpp) | Two Pointers + Sorting | O(n²) | O(1) |
+| 153 | [Find Minimum in Rotated Sorted Array](BinarySearch/problem_153.cpp) | Binary Search | O(log n) | O(1) |
 | 167 | [Two Sum II](TwoPointer/two_sum_ii.cpp) | Two Pointers | O(n) | O(1) |
 | 396 | [Rotate Function](Other/problem_396.cpp) | Mathematical Recurrence Relation | O(n) | O(1) |
 | 788 | [Rotated Digits](Other/problem_788.cpp) | Digit Validation | O(n * log n) | O(1) |
