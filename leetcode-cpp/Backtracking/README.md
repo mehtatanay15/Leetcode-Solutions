@@ -4,6 +4,7 @@
 
 | # | Problem | Approach | Time | Space |
 |---|---------|----------|------|-------|
+| 1306 | [Jump Game III](Other/problem_1306.cpp) | DFS Backtracking + Visited Marking | O(n) | O(n) |
 
 ## Subcategories
 - **Combinations/**: Combination generation
