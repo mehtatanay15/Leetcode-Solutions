@@ -4,6 +4,7 @@
 
 | # | Problem | Approach | Time | Space |
 |---|---------|----------|------|-------|
+| 1345 | [Jump Game IV](BFS/problem_1345.cpp) | BFS + HashMap Value Grouping | O(n) | O(n) |
 | 3629 | [Minimum Jumps with Prime Factors](BFS/problem_3629.cpp) | BFS + Prime Factorization | O(n√M + E) | O(n + M) |
 
 ## Subcategories
