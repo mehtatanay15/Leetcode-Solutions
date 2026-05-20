@@ -16,11 +16,4 @@
 | 2149 | [Rearrange Array Elements by Sign](TwoPointer/problem_2149.cpp) | Two Pointers | O(n) | O(n) |
 | 2540 | [Minimum Common Value](TwoPointer/problem_2540.cpp) | Two Pointers on Sorted Arrays | O(m+n) | O(1) |
 | 2553 | [Separate the Digits in an Array](Other/problem_2553.cpp) | Digit Extraction + Reversal | O(n*m) | O(d) |
-| 3660 | [Find Maximum Value](PrefixSum/problem_3660.cpp) | Prefix-Suffix Arrays + Greedy Partition | O(n) | O(n) |
-
-## Subcategories
-- **TwoPointer/**: Two-pointer technique problems
-- **BinarySearch/**: Binary search on arrays
-- **SlidingWindow/**: Sliding window technique
-- **PrefixSum/**: Prefix and suffix array problems
-- **Other/**: Miscellaneous array problems
+| 2657 | [Find the Prefix Common Array of Two Arrays](Other/problem_2657.cpp) | Frequency Counting + Prefix Tracking | O(n) | O(n) |
