@@ -11,6 +11,7 @@ Miscellaneous array problems.
 | 2078 | Maximum Distance Between Different Values |
 | 2553 | Separate the Digits in an Array |
 | 2657 | Find the Prefix Common Array of Two Arrays |
+| 3043 | Find the Longest Common Prefix Length |
 | - | xorAfterQueries |
 | - | minimumDistance |
 | - | getMinDistance |
