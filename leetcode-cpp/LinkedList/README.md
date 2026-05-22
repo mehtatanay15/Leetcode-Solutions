@@ -1,5 +1,7 @@
 # Linked List Problems
 
+Linked list manipulation problems including traversal, reversal, and two-pointer techniques.
+
 ## Problems Solved
 
 | # | Problem | Approach | Time | Space |

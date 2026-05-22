@@ -1,5 +1,7 @@
 # Backtracking Problems
 
+Backtracking and exhaustive search problems for combinations, permutations, and constraint satisfaction.
+
 ## Problems Solved
 
 | # | Problem | Approach | Time | Space |

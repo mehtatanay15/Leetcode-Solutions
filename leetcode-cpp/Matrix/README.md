@@ -1,5 +1,7 @@
 # Matrix Problems
 
+2D matrix problems including searching, rotation, traversal, and connectivity analysis.
+
 ## Problems Solved
 
 | # | Problem | Approach | Time | Space |

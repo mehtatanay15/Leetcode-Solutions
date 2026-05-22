@@ -1,5 +1,7 @@
 # Array Problems
 
+Comprehensive collection of array manipulation problems including two-pointers, binary search, prefix operations, and more.
+
 ## Problems Solved
 
 | # | Problem | Approach | Time | Space |

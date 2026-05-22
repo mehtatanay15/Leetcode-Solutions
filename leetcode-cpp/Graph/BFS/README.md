@@ -1,6 +1,6 @@
 # Graph - BFS
 
-Breadth-First Search problems on graphs.
+Breadth-First Search problems on graphs and grids.
 
 ## Problems Solved
 
@@ -10,4 +10,5 @@ Breadth-First Search problems on graphs.
 | 3629 | [Minimum Jumps with Prime Factors](problem_3629.cpp) | BFS + Prime Factorization | O(n√M + E) | O(n + M) |
 
 ## Related Problems
+
 See parent [Graph/README.md](../README.md) for the complete list.

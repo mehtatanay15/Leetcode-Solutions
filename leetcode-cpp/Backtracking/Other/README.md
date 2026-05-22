@@ -1,6 +1,6 @@
 # Backtracking - Other
 
-Miscellaneous backtracking problems.
+Miscellaneous backtracking and search problems.
 
 ## Problems Solved
 
@@ -9,4 +9,5 @@ Miscellaneous backtracking problems.
 | 1306 | [Jump Game III](problem_1306.cpp) | DFS Backtracking + Visited Marking | O(n) | O(n) |
 
 ## Related Problems
+
 See parent [Backtracking/README.md](../README.md) for the complete list.

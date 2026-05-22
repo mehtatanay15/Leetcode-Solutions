@@ -1,5 +1,7 @@
 # Tree Problems
 
+Binary tree problems including traversal (DFS/BFS), comparison, and path analysis.
+
 ## Problems Solved
 
 | # | Problem | Approach | Time | Space |

@@ -1,5 +1,7 @@
 # Graph Problems
 
+Graph algorithms including BFS, DFS, shortest paths, and connectivity analysis.
+
 ## Problems Solved
 
 | # | Problem | Approach | Time | Space |

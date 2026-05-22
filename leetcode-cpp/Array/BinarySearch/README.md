@@ -1,14 +1,14 @@
-# Array - BinarySearch
+# Array - Binary Search
 
-Binary search problems on arrays.
+Binary search optimization problems on arrays.
 
-## Problems Found
-- smallestDivisor.cpp
-- singleNonDuplicate_logn.cpp
-- shipwithindays.cpp
-- search_88.cpp
-- search_33.cpp
-- searchrange.cpp
-- searchInsert.cpp
+## Problems Solved
 
-See parent [Array/README.md](../README.md) for more details.
+| # | Problem | Approach | Time | Space |
+|---|---------|----------|------|-------|
+| 153 | [Find Minimum in Rotated Sorted Array](problem_153.cpp) | Binary Search | O(log n) | O(1) |
+| 154 | [Find Minimum in Rotated Sorted Array II](problem_154.cpp) | Binary Search + Duplicate Handling | O(n) worst, O(log n) avg | O(1) |
+
+## Related Problems
+
+See parent [Array/README.md](../README.md) for the complete list.

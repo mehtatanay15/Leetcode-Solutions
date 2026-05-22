@@ -1,5 +1,7 @@
 # Greedy Problems
 
+Greedy algorithm problems where optimal local choices lead to global solutions.
+
 ## Problems Solved
 
 | # | Problem | Approach | Time | Space |
