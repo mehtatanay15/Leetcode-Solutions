@@ -13,6 +13,7 @@ Comprehensive collection of array manipulation problems including two-pointers, 
 | 396 | [Rotate Function](Other/problem_396.cpp) | Mathematical Recurrence Relation | O(n) | O(1) |
 | 788 | [Rotated Digits](Other/problem_788.cpp) | Digit Validation | O(n * log n) | O(1) |
 | 1674 | [Minimum Moves to Make Array Equal II](Other/problem_1674.cpp) | Difference Array Range Updates | O(n + limit) | O(limit) |
+| 1752 | [Check if Array is Sorted and Rotated](Other/problem_1752.cpp) | Break Point Counting | O(n) | O(1) |
 | 1855 | [Maximum Distance Between a Pair of Values](TwoPointer/problem_1855.cpp) | Two Pointers | O(m+n) | O(1) |
 | 2078 | [Maximum Distance Between Different Values](Other/problem_2078.cpp) | Two Pointers from Ends | O(n) | O(1) |
 | 2149 | [Rearrange Array Elements by Sign](TwoPointer/problem_2149.cpp) | Two Pointers | O(n) | O(n) |
