@@ -7,6 +7,7 @@ DP solutions using memoization and tabulation across various problem types.
 | # | Problem | Approach | Time | Space |
 |---|---------|----------|------|-------|
 | 1340 | [Maximum Jumps Index Within Constraints](Other/problem_1340.cpp) | DFS Memoization - Two-Direction Exploration | O(n*d) | O(n) |
+| 1871 | [Jump Game VII](Other/problem_1871.cpp) | DP with Sliding Window Counter | O(n) | O(n) |
 | 2770 | [Maximum Jumps](Other/problem_2770.cpp) | DP Tabulation - Forward Iteration | O(n²) | O(n) |
 | 3742 | [Maximize Path Score with Constraints](MatrixPath/problem_3742.cpp) | 3D DP Memoization | O(m*n*k) | O(m*n*k) |
 
