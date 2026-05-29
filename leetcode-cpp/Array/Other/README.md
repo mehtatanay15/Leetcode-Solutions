@@ -14,6 +14,7 @@ Miscellaneous array problems.
 | 2553 | [Separate the Digits in an Array](problem_2553.cpp) | Digit Extraction + Reversal | O(n*m) | O(d) |
 | 2657 | [Find the Prefix Common Array of Two Arrays](problem_2657.cpp) | Frequency Counting + Prefix Tracking | O(n) | O(n) |
 | 3043 | [Find the Longest Common Prefix Length](problem_3043.cpp) | Hash Set Prefix Extraction | O((m+n)*log(max_val)) | O(m*log(max_val)) |
+| 3300 | [Minimum Element After Replacement With Digit Sum](problem_3300.cpp) | Digit Sum Calculation | O(n*d) | O(1) |
 
 ## Related Problems
 
