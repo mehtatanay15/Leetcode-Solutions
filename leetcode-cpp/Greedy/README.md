@@ -10,6 +10,7 @@ Greedy algorithm problems where optimal local choices lead to global solutions.
 | 1665 | [Minimum Effort to Complete All Tasks](Other/problem_1665.cpp) | Greedy Sorting by Effort Difference | O(n log n) | O(1) |
 | 2033 | [Minimum Operations to Make a Grid Equal](Other/problem_2033.cpp) | Median Targeting + Divisibility Check | O(n log n) | O(n) |
 | 2126 | [Destroying Asteroids With Planet](Other/problem_2126.cpp) | Greedy Sorting (Smallest First) | O(n log n) | O(1) |
+| 2144 | [Minimum Cost of Buying Textbooks](Other/problem_2144.cpp) | Greedy Grouping with Descending Sort | O(n log n) | O(1) |
 
 ## Subcategories
 - **Other/**: Miscellaneous greedy problems
