@@ -22,6 +22,7 @@ Comprehensive collection of array manipulation problems including two-pointers, 
 | 2657 | [Find the Prefix Common Array of Two Arrays](Other/problem_2657.cpp) | Frequency Counting + Prefix Tracking | O(n) | O(n) |
 | 3043 | [Find the Longest Common Prefix Length](Other/problem_3043.cpp) | Hash Set Prefix Extraction | O((m+n)*log(max_val)) | O(m*log(max_val)) |
 | 3300 | [Minimum Element After Replacement With Digit Sum](Other/problem_3300.cpp) | Digit Sum Calculation | O(n*d) | O(1) |
+| 3633 | [Earliest Finish Time With Two Schedules](Other/problem_3633.cpp) | Exhaustive Search with Ordering | O(n*m) | O(1) |
 | 3660 | [Find Maximum Value](PrefixSum/problem_3660.cpp) | Prefix-Suffix Arrays + Greedy Partition | O(n) | O(n) |
 
 ## Subcategories
