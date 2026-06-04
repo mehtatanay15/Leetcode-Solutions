@@ -23,8 +23,8 @@ High-quality C++ solutions for LeetCode problems, organized by category with eff
 
 ## 📊 Statistics
 
-- **Total Problems**: 62
-- **Last Updated**: June 2, 2026
+- **Total Problems**: 63
+- **Last Updated**: June 4, 2026
 - **All solutions include**: Time/Space complexity, detailed approach, worked examples
 
 ## 🗂️ Project Structure
