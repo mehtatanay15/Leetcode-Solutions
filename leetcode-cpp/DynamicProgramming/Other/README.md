@@ -9,6 +9,7 @@ Miscellaneous dynamic programming problems using memoization and optimization.
 | 1340 | [Maximum Jumps Index Within Constraints](problem_1340.cpp) | DFS Memoization - Two-Direction Exploration | O(n*d) | O(n) |
 | 1871 | [Jump Game VII](problem_1871.cpp) | DP with Sliding Window Counter | O(n) | O(n) |
 | 2770 | [Maximum Jumps](problem_2770.cpp) | DP Tabulation - Forward Iteration | O(n²) | O(n) |
+| 3753 | [Total Waviness of a Number Range (Optimized)](problem_3753.cpp) | Digit DP with Memoization | O(d*1210) | O(d*144) |
 
 ## Related Problems
 
