@@ -17,6 +17,7 @@ Comprehensive collection of array manipulation problems including two-pointers, 
 | 1855 | [Maximum Distance Between a Pair of Values](TwoPointer/problem_1855.cpp) | Two Pointers | O(m+n) | O(1) |
 | 2078 | [Maximum Distance Between Different Values](Other/problem_2078.cpp) | Two Pointers from Ends | O(n) | O(1) |
 | 2149 | [Rearrange Array Elements by Sign](TwoPointer/problem_2149.cpp) | Two Pointers | O(n) | O(n) |
+| 2161 | [Partition Array By Pivot](Other/problem_2161.cpp) | Two-Pointer Partitioning with Pre-initialization | O(n) | O(n) |
 | 2540 | [Minimum Common Value](TwoPointer/problem_2540.cpp) | Two Pointers on Sorted Arrays | O(m+n) | O(1) |
 | 2553 | [Separate the Digits in an Array](Other/problem_2553.cpp) | Digit Extraction + Reversal | O(n*m) | O(d) |
 | 2574 | [Left and Right Sum Differences](Other/problem_2574.cpp) | Running Sums with Two Passes | O(n) | O(n) |
